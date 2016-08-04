@@ -1,0 +1,16 @@
+{
+  "name": "study-author",
+  "version": "0.0.0",
+  "description": "StudyAuthor",
+  "main": "app.js",
+  "author": {
+    "name": "daycr"
+  },
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-bootstrap": "^2.0.1",
+    "angular-ui-bootstrap-tmp": "^0.13.4-hotfix-2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  }
+}

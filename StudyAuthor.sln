@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "StudyAuthorAPI", "StudyAuthorAPI\StudyAuthorAPI.njsproj", "{7815583D-29CE-4E0B-B915-DFCE3B11E01E}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "StudyAuthor", "StudyAuthor\StudyAuthor.njsproj", "{3F4C1505-C4EC-4B6C-AADD-F75BCEDA55DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7815583D-29CE-4E0B-B915-DFCE3B11E01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7815583D-29CE-4E0B-B915-DFCE3B11E01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7815583D-29CE-4E0B-B915-DFCE3B11E01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7815583D-29CE-4E0B-B915-DFCE3B11E01E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4C1505-C4EC-4B6C-AADD-F75BCEDA55DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4C1505-C4EC-4B6C-AADD-F75BCEDA55DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4C1505-C4EC-4B6C-AADD-F75BCEDA55DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4C1505-C4EC-4B6C-AADD-F75BCEDA55DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
